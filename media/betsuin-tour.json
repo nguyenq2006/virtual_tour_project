@@ -1,0 +1,374 @@
+{
+    "default": {
+		"title": "SJ Buddhist Temple Betsuin",
+        "basePath": "./media/",
+		"autoLoad": false,
+        "firstScene": "outside",
+		"sceneFadeDuration": 1000
+    },
+    
+    "scenes": {
+        
+        "outside": {
+            "title": "Outside the Temple",
+            "preview": "preview.jpg",
+            "panorama": "outside.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 20,
+                    "yaw": 20,
+                    "type": "info",
+                    "text": "https://www.youtube.com/watch?v=IZcjTn0Otr4"
+                },
+
+                {
+                    "pitch": 30,
+                    "yaw": -30,
+                    "type": "info",
+                    "text": "https://youtu.be/UhMPhMJI0mQ"
+                },
+
+                {
+                    "pitch": 7,
+                    "yaw": -21,
+                    "type": "info",
+                    "text": "One of the metal Toro at front of the temple.",
+                    "URL": "Photos/IMG_1245.JPG"
+                },
+                {
+                    "pitch": 10,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": " Front door of the temple and the lantern over the space. Also visible is the brass cover over the joint.",
+                    "URL": "Photos/IMG_1247.JPG"
+                },
+                {
+                    "pitch": 5.5,
+                    "yaw": -31.5,
+                    "type": "info",
+                    "text": "Statue of Shinran Shonin, the founder of Jodo Shinshu. This is a copy of the one that was at Hiroshima when the atomic bomb fell.",
+                    "URL": "Photos/IMG_1249.JPG"
+                },
+                 {
+                    "pitch": 2,
+                    "yaw": 31,
+                    "type": "info",
+                    "text": "Ote-arai: Handwashing basin.",
+                    "URL": "Photos/IMG_1244.JPG"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Head towards temple door",
+                    "sceneId": "outside2"
+				}
+            ]
+        },
+        "chapel": {
+            "title": "Small Chapel",
+            "panorama": "chapel4.png",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": -215,
+                    "type": "info",
+                    "text": "This is place holder text."
+                },
+                {
+                    "pitch": 0,
+                    "yaw":1,
+                    "type": "scene",
+                    "text": "Go to inside",
+                    "sceneId": "inside2"            
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -51,
+                    "type": "scene",
+                    "text": "Garden",
+                    "sceneId": "garden"
+                }
+            ]
+        },
+        "outside2": {
+            "title": "Temple Door",
+            "panorama": "outside2.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -18,
+                    "yaw": -141,
+                    "type": "info",
+                    "text": "One of the metal Toro at front of the temple.",
+                    "URL": "Photos/IMG_1245.JPG"
+                },
+                {
+                    "pitch": 10,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": " Front door of the temple and the lantern over the space. Also visible is the brass cover over the joint.",
+                    "URL": "Photos/IMG_1247.JPG"
+                },
+                {
+                    "pitch": -8,
+                    "yaw": -88,
+                    "type": "info",
+                    "text": "Statue of Shinran Shonin, the founder of Jodo Shinshu. This is a copy of the one that was at Hiroshima when the atomic bomb fell.",
+                    "URL": "Photos/IMG_1249.JPG"
+                },
+                {
+                    "pitch": -11,
+                    "yaw":82.5,
+                    "type": "info",
+                    "text": "Ote-arai: Handwashing basin.",
+                    "URL": "Photos/IMG_1244.JPG"
+                },
+
+                {
+                    "pitch": -13,
+                    "yaw": -0,
+                    "type": "scene",
+                    "text": "Go inside",
+                    "sceneId": "inside1"
+				},
+                {
+                    "pitch": -20,
+                    "yaw": -182,
+                    "type": "scene",
+                    "text": "Go to street view",
+                    "sceneId": "outside"
+				}
+            ]
+		},
+        "inside1": {
+            "title": "Inside the Temple",
+            "panorama": "inside1.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 17,
+                    "yaw": 44,
+                    "type": "info",
+                    "text": "One of the metal Toro at front of the temple.",
+                    "URL": "Photos/IMG_1270.JPG"
+                },
+                 {
+                    "pitch": 10,
+                    "yaw":1,
+                    "type": "info",
+                    "text": "Helping human beings open the door to various ways of liberation",
+                    "URL": "Photos/IMG_1281.JPG"
+                },
+                 {
+                    "pitch": 3,
+                    "yaw":39,
+                    "type": "info",
+                    "text": "Depiction of a phoenix, one of the bird depicted in the Larger Amida Sutra",
+                    "URL": "Photos/IMG_1276.JPG"
+                }
+                ,
+                {
+					"pitch": 4,
+					"yaw": -59,
+					"type": "info"
+					
+				}
+                ,
+                {
+                    "pitch": -7,
+                    "yaw":32,
+                    "type": "info",
+                    "text": "Pulpit like pews is one of the changes made to incorporate Protestant aspects in to the Temple.",
+                    "URL": "Photos/IMG_1272.JPG"
+                },
+                {
+                    "pitch": -18,
+                    "yaw":2,
+                    "type": "scene",
+                    "text": "Head further in",
+                    "sceneId": "inside2"
+                },
+                {
+                    "pitch": -4,
+                    "yaw":58,
+                    "type": "scene",
+                    "text": "Chapel",
+                    "sceneId": "chapel"
+				},
+				{
+					"pitch": 9,
+					"yaw": -220,
+					"type": "info",
+					"text": "Photographs of the former church ministers",
+					"URL": "Photos/photographs2.JPG"
+				},
+				{
+					"pitch": 8,
+					"yaw": -137,
+					"type": "info",
+					"text": "Photographs of the former church ministers",
+					"URL": "Photos/photographs2.JPG"
+				},
+				{
+					"pitch": 6,
+					"yaw": -129,
+					"type": "info",
+					"text": "Photographs of the former church ministers",
+					"URL": "Photos/photographs3.JPG"
+				},
+                {
+                    "pitch": -10,
+                    "yaw": -178,
+                    "type": "scene",
+                    "text": "Head outside",
+                    "sceneId": "outside2"
+                }
+
+            ]
+        },
+        "inside2": {
+            "title": "Inside the Temple",
+            "panorama": "inside2.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2,
+                    "yaw":95,
+                    "type": "scene",
+                    "text": "Chapel",
+                    "sceneId": "chapel"
+				},
+                {
+                    "pitch": 200,
+                    "yaw":5,
+                    "type": "scene",
+                    "text": "Inside 1",
+                    "sceneId": "inside1"
+                }
+                ,
+                {
+                    "pitch": 178,
+                    "yaw":3,
+                    "type": "scene",
+                    "text": "Outside",
+                    "sceneId": "outside"
+                }
+                ,
+				{
+					"pitch": 2,
+					"yaw": -95,
+					"type": "info"
+				
+					
+				}
+                ,
+                {
+                    "pitch": 15,
+                    "yaw":1.5,
+                    "type": "info",
+                    "text": "Our central Buddha is Amida Buddha, the Buddha of Infinite Light and Life."
+                }
+                ,
+                {
+                    "pitch": 400,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "Helping human beings open the door to various ways of liberation"
+                }
+                ,
+                {
+                    "pitch": 325,
+                    "yaw": 10,
+                    "type": "info",
+                    "text": "Area for burning incense"
+                }               
+                ,
+                {
+                    "pitch": 10,
+                    "yaw": 33,
+                    "type": "info",
+                    "text": "Shotoku Taishi. Prince-Regent of Japan. Shinran Shonin considered Shotoku Taishi as his patron.",
+                    "URL": "Photos/IMG_1264.JPG"
+                }
+                ,
+                {
+                    "pitch": 10,
+                    "yaw": -29,
+                    "type": "info",
+                    "text": "Seven past Buddhas: Vipaśyin, Śikhin, Viśvabhu, Krakucchanda, Kanakamuni, Kaśyapa, Śākyamuni"
+                }
+                ,
+                {
+                    "pitch": 0,
+                    "yaw": 75,
+                    "type": "info",
+                    "text": "Pulpit like pews is one of the changes made to incorporate Protestant aspects in to the Temple.",
+                    "URL": "http://sjbetsuin.com/category/dharma-videos/"
+                }
+                ,
+                {
+                    "pitch": 0,
+                    "yaw": -65,
+                    "type": "info",
+                    "text": "Depiction of a phoenix, one of the bird depicted in the Larger Amida Sutra.",
+                    "URL": "Photos/IMG_1277.JPG"
+                }
+                ,
+                {
+                    "pitch": -10,
+                    "yaw": -70,
+                    "type": "info",
+                    "text": "Some of the earliest things sent back by the first missionaries from Japan back in 1890's were an organ and a piano.  Also Shinran Shonin wrote many songs. All of which means that even in Japan in our sect you are likely to find either a piano or an organ in the corner.",
+                    "URL": "Photos/IMG_1271.JPG"
+                }
+                ,
+                {
+                    "pitch": -5,
+                    "yaw": 1.5,
+                    "type": "info",
+                    "text": "Depicition of Mt Sumeru, an upside down mountain on which Amida Buddha is said to reside."
+                }
+            ]
+        },
+        "garden": {
+            "title": "Garden",
+            "panorama": "garden.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 4,
+                    "yaw": 40,
+                    "type": "scene",
+                    "text": "Chapel",
+                    "sceneId": "chapel"
+                },
+                {
+                    "pitch": 18,
+                    "yaw": 73,
+                    "type": "info",
+                    "text": "Taller of the Toro (stone lantern) in the garden",
+                    "URL": "Photos/IMG_1238.JPG"
+                },
+				{
+                    "pitch": 18,
+                    "yaw": 88,
+                    "type": "info",
+                    "text": "Rectangular Stone (?)",
+                    "URL": "Photos/stone.JPG"
+                },
+				{
+                    "pitch": 19,
+                    "yaw": 233,
+                    "type": "info",
+                    "text": "Burial Stone (?)",
+                    "URL": "Photos/stone2.JPG"
+                },
+                {
+                    "pitch": 20,
+                    "yaw": 0,
+                    "type": "info",
+                    "text": "Temple Kane (Bell). Used to signal the start of services. Also used at Joya-e service on New Year's Eve",
+                    "URL": "Photos/IMG_1240.JPG"
+                }
+
+            ]
+        }
+    }
+}
