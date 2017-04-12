@@ -2,11 +2,13 @@
     "default": {
 		"title": "SJ Buddhist Temple Betsuin",
         "basePath": "./media/",
-		"autoLoad": false,
+		"autoLoad": true,
         "firstScene": "outside",
 		"sceneFadeDuration": 1000
     },
-    
+
+    "hotSpotDebug": true,
+
     "scenes": {
         
         "outside": {
@@ -15,10 +17,10 @@
             "panorama": "outside.jpg",
             "hotSpots": [
                 {
-                    "pitch": 20,
-                    "yaw": 20,
+                    "pitch": 17.53,
+                    "yaw": 0.71,
                     "type": "info",
-                    "text": "https://www.youtube.com/watch?v=IZcjTn0Otr4"
+                    "text": "Hondo is the main chapel. \"Hondo\" means the \"Main Hall\" or the \"Main Path\". This building was completed in 1937 at the height of the Great Depression. The tiles on the roof are actually spanish tile and is same as the ones in the missions in the area."
                 },
 
                 {
@@ -32,7 +34,14 @@
                     "pitch": 7,
                     "yaw": -21,
                     "type": "info",
-                    "text": "One of the metal Toro at front of the temple.",
+                    "text": "\"Toro\" (Latern)",
+                    "URL": "Photos/IMG_1245.JPG"
+                },
+                {
+                    "pitch": 7.85,
+                    "yaw": 20.83,
+                    "type": "info",
+                    "text": "\"Toro\" (Latern)",
                     "URL": "Photos/IMG_1245.JPG"
                 },
                 {
@@ -53,7 +62,7 @@
                     "pitch": 2,
                     "yaw": 31,
                     "type": "info",
-                    "text": "Ote-arai: Handwashing basin.",
+                    "text": "Ote-arai: Handwashing basin. In Japan, most temples have this and has constantly running water. This is a way to purifying oneself by washing their hands and having a drink.",
                     "URL": "Photos/IMG_1244.JPG"
                 },
                 {
@@ -99,15 +108,14 @@
                     "pitch": -18,
                     "yaw": -141,
                     "type": "info",
-                    "text": "One of the metal Toro at front of the temple.",
+                    "text": "\"Toro\" (Latern)",
                     "URL": "Photos/IMG_1245.JPG"
                 },
                 {
-                    "pitch": 10,
-                    "yaw": 0,
+                    "pitch": -25.1,
+                    "yaw": -0.08,
                     "type": "info",
-                    "text": " Front door of the temple and the lantern over the space. Also visible is the brass cover over the joint.",
-                    "URL": "Photos/IMG_1247.JPG"
+                    "text": "In Japan, one would take off your shoes before ascending the steps. The San Jose Buddhist Church Betsuin belongs to the Buddhist Churches of America which in turn is affiliated with the Hompa Honganji in Kyoto, Japan. \"Betsuin\" means \"special institution\" and is given to 5 temples in the US."
                 },
                 {
                     "pitch": -8,
@@ -120,7 +128,7 @@
                     "pitch": -11,
                     "yaw":82.5,
                     "type": "info",
-                    "text": "Ote-arai: Handwashing basin.",
+                    "text": "Ote-arai: Handwashing basin. In Japan, most temples have this and has constantly running water. This is a way to purifying oneself by washing their hands and having a drink.",
                     "URL": "Photos/IMG_1244.JPG"
                 },
 
@@ -137,7 +145,13 @@
                     "type": "scene",
                     "text": "Go to street view",
                     "sceneId": "outside"
-				}
+				},
+                {
+                    "pitch": 28.6,
+                    "yaw": 0.48,
+                    "type": "info",
+                    "text": "This is the oldest lamp at San Jose Buddhist Church Betsuin. The temple was founded in 1902after the founding of San Francisco and Sacramento churches"
+                }
             ]
 		},
         "inside1": {
@@ -198,14 +212,14 @@
 					"pitch": 9,
 					"yaw": -220,
 					"type": "info",
-					"text": "Photographs of the former church ministers",
+					"text": "Photos of our past minister, 1902-1950, who are our leaders. Our ministers are allowed to marry, and do not need to shave their heads. The first minister was Rev. Honen Takahashi who arrived from Japan in 1907.",
 					"URL": "Photos/photographs2.JPG"
 				},
 				{
 					"pitch": 8,
 					"yaw": -137,
 					"type": "info",
-					"text": "Photographs of the former church ministers",
+					"text": "Photos of our ministers after 1950 to the present. ",
 					"URL": "Photos/photographs2.JPG"
 				},
 				{
