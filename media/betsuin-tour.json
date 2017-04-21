@@ -80,12 +80,6 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": -215,
-                    "type": "info",
-                    "text": "This is place holder text."
-                },
-                {
-                    "pitch": 0,
                     "yaw":1,
                     "type": "scene",
                     "text": "Go to inside",
@@ -158,40 +152,38 @@
             "title": "Inside the Temple",
             "panorama": "inside1.jpg",
             "hotSpots": [
-                {
+                 {
                     "pitch": 17,
                     "yaw": 44,
                     "type": "info",
                     "text": "One of the metal Toro at front of the temple.",
                     "URL": "Photos/IMG_1270.JPG"
                 },
-                 {
+                {
+                    "pitch": 26.23,
+                    "yaw": 64.55,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra talks of rhythmic drumming that causes instant enlightenment to those that hear it."
+                },
+                {
                     "pitch": 10,
                     "yaw":1,
                     "type": "info",
-                    "text": "Helping human beings open the door to various ways of liberation",
+                    "text": "Helping human beings open the door to various ways of liberation.",
                     "URL": "Photos/IMG_1281.JPG"
                 },
-                 {
+                {
                     "pitch": 3,
                     "yaw":39,
                     "type": "info",
-                    "text": "Depiction of a phoenix, one of the bird depicted in the Larger Amida Sutra",
+                    "text": "The Larger Amida Sutra talks of many birds including phoenixes in the pure land.",
                     "URL": "Photos/IMG_1276.JPG"
-                }
-                ,
-                {
-					"pitch": 4,
-					"yaw": -59,
-					"type": "info"
-					
-				}
-                ,
+                },
                 {
                     "pitch": -7,
                     "yaw":32,
                     "type": "info",
-                    "text": "Pulpit like pews is one of the changes made to incorporate Protestant aspects in to the Temple.",
+                    "text": "Although the temples in Japan do not have these as they are not necessary when the congregation sits on the floor. In the US with the pews, a podium is needed to allow the minister to be seen.",
                     "URL": "Photos/IMG_1272.JPG"
                 },
                 {
@@ -207,28 +199,28 @@
                     "type": "scene",
                     "text": "Chapel",
                     "sceneId": "chapel"
-				},
-				{
-					"pitch": 9,
-					"yaw": -220,
-					"type": "info",
-					"text": "Photos of our past minister, 1902-1950, who are our leaders. Our ministers are allowed to marry, and do not need to shave their heads. The first minister was Rev. Honen Takahashi who arrived from Japan in 1907.",
-					"URL": "Photos/photographs2.JPG"
-				},
-				{
-					"pitch": 8,
-					"yaw": -137,
-					"type": "info",
-					"text": "Photos of our ministers after 1950 to the present. ",
-					"URL": "Photos/photographs2.JPG"
-				},
-				{
-					"pitch": 6,
-					"yaw": -129,
-					"type": "info",
-					"text": "Photographs of the former church ministers",
-					"URL": "Photos/photographs3.JPG"
-				},
+                },
+                {
+                    "pitch": 9,
+                    "yaw": -220,
+                    "type": "info",
+                    "text": "Photos of our past minister, 1902-1950, who are our leaders. Our ministers are allowed to marry, and do not need to shave their heads. The first minister was Rev. Honen Takahashi who arrived from Japan in 1907.",
+                    "URL": "Photos/photographs2.JPG"
+                },
+                {
+                    "pitch": 8,
+                    "yaw": -137,
+                    "type": "info",
+                    "text": "Photos of our ministers after 1950 to the present. ",
+                    "URL": "Photos/photographs2.JPG"
+                },
+                {
+                    "pitch": 6,
+                    "yaw": -129,
+                    "type": "info",
+                    "text": "Photographs of the former church ministers",
+                    "URL": "Photos/photographs3.JPG"
+                },
                 {
                     "pitch": -10,
                     "yaw": -178,
@@ -249,7 +241,7 @@
                     "type": "scene",
                     "text": "Chapel",
                     "sceneId": "chapel"
-				},
+                },
                 {
                     "pitch": 200,
                     "yaw":5,
@@ -265,14 +257,6 @@
                     "text": "Outside",
                     "sceneId": "outside"
                 }
-                ,
-				{
-					"pitch": 2,
-					"yaw": -95,
-					"type": "info"
-				
-					
-				}
                 ,
                 {
                     "pitch": 15,
@@ -292,7 +276,7 @@
                     "pitch": 325,
                     "yaw": 10,
                     "type": "info",
-                    "text": "Area for burning incense"
+                    "text": "Incense offerings are reminder of impermance which is one of the central Buddhist concepts. These burners are adorned with lotus flowers."
                 }               
                 ,
                 {
@@ -314,7 +298,7 @@
                     "pitch": 0,
                     "yaw": 75,
                     "type": "info",
-                    "text": "Pulpit like pews is one of the changes made to incorporate Protestant aspects in to the Temple.",
+                    "text": "Although the temples in Japan do not have these as they are not necessary when the congregation sits on the floor. In the US with the pews, a podium is needed to allow the minister to be seen.",
                     "URL": "http://sjbetsuin.com/category/dharma-videos/"
                 }
                 ,
@@ -330,7 +314,7 @@
                     "pitch": -10,
                     "yaw": -70,
                     "type": "info",
-                    "text": "Some of the earliest things sent back by the first missionaries from Japan back in 1890's were an organ and a piano.  Also Shinran Shonin wrote many songs. All of which means that even in Japan in our sect you are likely to find either a piano or an organ in the corner.",
+                    "text": "Songs had always been important to Jodo Shinshu. Shinran Shonin created the melody for the \"Ondokusan\" which is still sung today. The first Jodo Shinshu ministers to the US reported on the use of organ and western music in protestant services. After that the Honganji hired composers to compose new arrangements and songs.",
                     "URL": "Photos/IMG_1271.JPG"
                 }
                 ,
@@ -347,6 +331,30 @@
             "panorama": "garden.jpg",
             "hotSpots": [
                 {
+                    "pitch": 13.70,
+                    "yaw" : 73.67,
+                    "type": "info",
+                    "text": "The koro is made from stone that contains fire. Therfore, it presents both earth and fire."
+                },
+                {
+                    "pitch": 12.21,
+                    "yaw": 29.84,
+                    "type": "info",
+                    "text": "The koro is made from stone that contains fire. Therfore, it presents both earth and fire."
+                },
+                {
+                    "pitch": -5.39,
+                    "yaw": -174.51,
+                    "type": "info",
+                    "text": "The waterfall represents the mountain stream in a Japanese garden."
+                },
+                {
+                    "pitch": 18.44,
+                    "yaw": 39.0,
+                    "type": "info",
+                    "text": "Nokotsudo is a columbarium. It was renovated in the early 1990s."
+                },  
+                {
                     "pitch": 4,
                     "yaw": 40,
                     "type": "scene",
@@ -360,14 +368,14 @@
                     "text": "Taller of the Toro (stone lantern) in the garden",
                     "URL": "Photos/IMG_1238.JPG"
                 },
-				{
+                {
                     "pitch": 18,
                     "yaw": 88,
                     "type": "info",
-                    "text": "Rectangular Stone (?)",
+                    "text": "Stone with Saying",
                     "URL": "Photos/stone.JPG"
                 },
-				{
+                {
                     "pitch": 19,
                     "yaw": 233,
                     "type": "info",
@@ -378,7 +386,7 @@
                     "pitch": 20,
                     "yaw": 0,
                     "type": "info",
-                    "text": "Temple Kane (Bell). Used to signal the start of services. Also used at Joya-e service on New Year's Eve",
+                    "text": "The outside bell is rang at the beginning of service to call the congregation together. In Japan, it was used to tell time to the village.",
                     "URL": "Photos/IMG_1240.JPG"
                 }
 
