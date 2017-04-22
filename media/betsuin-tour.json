@@ -156,14 +156,15 @@
                     "pitch": 17,
                     "yaw": 44,
                     "type": "info",
-                    "text": "One of the metal Toro at front of the temple.",
+                    "text": "The interior light fixtures werer donated for the Centennial in 2002.",
                     "URL": "Photos/IMG_1270.JPG"
                 },
                 {
-                    "pitch": 26.23,
-                    "yaw": 64.55,
+                    "pitch": 16.11,
+                    "yaw": -41.5,
                     "type": "info",
-                    "text": "The Larger Amida Sutra talks of rhythmic drumming that causes instant enlightenment to those that hear it."
+                    "text": "The interior light fixtures werer donated for the Centennial in 2002.",
+                    "URL": "Photos/IMG_1270.JPG"
                 },
                 {
                     "pitch": 10,
@@ -173,8 +174,8 @@
                     "URL": "Photos/IMG_1281.JPG"
                 },
                 {
-                    "pitch": 3,
-                    "yaw":39,
+                    "pitch": -0.24,
+                    "yaw": -30.9,
                     "type": "info",
                     "text": "The Larger Amida Sutra talks of many birds including phoenixes in the pure land.",
                     "URL": "Photos/IMG_1276.JPG"
@@ -227,6 +228,36 @@
                     "type": "scene",
                     "text": "Head outside",
                     "sceneId": "outside2"
+                },
+                {
+                    "pitch": 9.52,
+                    "yaw": -34.36,
+                    "type": "info",
+                    "text": "The \"Pure Land\" is an area said to exist around all the Buddhas where it is most condusive to achieving enlightenment. In the Pure Land Sutras, there are mentions of many types of birds and blossoms of flowers with wonderous fragrance which can bring instant enlightenment."
+                },
+                {
+                    "pitch": 10.85,
+                    "yaw": -24.4,
+                    "type": "info",
+                    "text": "The lotus because it grows out of the muddy water and blossoms at the surface has long symbolized enlightenment."
+                },
+                {
+                    "pitch": 13.31,
+                    "yaw": -13.15,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra talks of sounds from a pipe that brings instant enlightenment to those that hear it."
+                },
+                {
+                    "pitch": 13.21,
+                    "yaw": 16.32,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra depicts sweet fruit with wonderous taste that can bring enlightement to those that eat it. The Japanese imagined it to be peaches."
+                },
+                {
+                    "pitch": 12,
+                    "yaw": 29.07,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra talks of rhythmic drumming that causes instant enlightenment to those that hear it"
                 }
 
             ]
@@ -248,16 +279,35 @@
                     "type": "scene",
                     "text": "Inside 1",
                     "sceneId": "inside1"
-                }
-                ,
+                },
                 {
                     "pitch": 178,
                     "yaw":3,
                     "type": "scene",
                     "text": "Outside",
                     "sceneId": "outside"
-                }
-                ,
+                },
+                 {
+                    "pitch": 24.13,
+                    "yaw": 109.53,
+                    "type": "info",
+                    "text": "The interior light fixtures werer donated for the Centennial in 2002."
+                    
+                },
+                {
+                    "pitch": 20.25,
+                    "yaw": 185.6,
+                    "type": "info",
+                    "text": "The interior light fixtures werer donated for the Centennial in 2002."
+                    
+                },
+                {
+                    "pitch": 21.36,
+                    "yaw": -100.71,
+                    "type": "info",
+                    "text": "The interior light fixtures werer donated for the Centennial in 2002."
+                    
+                },
                 {
                     "pitch": 15,
                     "yaw":1.5,
@@ -269,9 +319,38 @@
                     "pitch": 400,
                     "yaw": 0,
                     "type": "info",
-                    "text": "Helping human beings open the door to various ways of liberation"
-                }
-                ,
+                    "text": "\"Kai Ho Zo\" An saying in the Juseige which itself is a song in the Larger Amida Sutra. It means to \"Open your knowledge storehouse.\" This arises from Shinran Shonin's emphasis on not having any secret teachings."
+                },
+                {
+                    "pitch": 17.85,
+                    "yaw": -66.42,
+                    "type": "info",
+                    "text": "The \"Pure Land\" is an area said to exist around all the Buddhas where it is most condusive to achieving enlightenment. In the Pure Land Sutras, there are mentions of many types of birds and blossoms of flowers with wonderous fragrance which can bring instant enlightenment."
+                },
+                {
+                    "pitch": 22.91,
+                    "yaw": -57.52,
+                    "type": "info",
+                    "text": "The lotus because it grows out of the muddy water and blossoms at the surface has long symbolized enlightenment."
+                },
+                {
+                    "pitch": 34.03,
+                    "yaw": -43.81,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra talks of sounds from a pipe that brings instant enlightenment to those that hear it."
+                },
+                {
+                    "pitch": 36.86,
+                    "yaw": 44.34,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra depicts sweet fruit with wonderous taste that can bring enlightement to those that eat it. The Japanese imagined it to be peaches."
+                },
+                {
+                    "pitch": 26.23,
+                    "yaw": 64.55,
+                    "type": "info",
+                    "text": "The Larger Amida Sutra talks of rhythmic drumming that causes instant enlightenment to those that hear it"
+                },
                 {
                     "pitch": 325,
                     "yaw": 10,
@@ -334,7 +413,8 @@
                     "pitch": 13.70,
                     "yaw" : 73.67,
                     "type": "info",
-                    "text": "The koro is made from stone that contains fire. Therfore, it presents both earth and fire."
+                    "text": "The koro is made from stone that contains fire. Therfore, it presents both earth and fire.",
+                    "URL": "Photos/IMG_1238.JPG"
                 },
                 {
                     "pitch": 12.21,
@@ -360,13 +440,6 @@
                     "type": "scene",
                     "text": "Chapel",
                     "sceneId": "chapel"
-                },
-                {
-                    "pitch": 18,
-                    "yaw": 73,
-                    "type": "info",
-                    "text": "Taller of the Toro (stone lantern) in the garden",
-                    "URL": "Photos/IMG_1238.JPG"
                 },
                 {
                     "pitch": 18,
